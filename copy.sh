@@ -1,2 +1,2 @@
 #!/bin/sh
-rclone copy onedrive: gdrive_mirror:Frank --transfers 48 -v
+rclone copy onedrive:Cotpear備用載點 gdrive_mirror:Cotpear備用載點 --transfers 48 -v
